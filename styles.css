@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+
+main.accio#id{
+	width: 150px;
+	height:150px;
+	background-color: white
+}
+.hello-accio{
+	text-color:white;
+	margin-left: 32px;
+	padding:10px;
+	
+}
